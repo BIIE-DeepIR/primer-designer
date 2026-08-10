@@ -4,6 +4,10 @@ Primer Tm & annealing-temperature calculator for PCR primer design — nearest-n
 
 Single self-contained HTML file, no build step, no server, no internet required — open [`260715_primer_tm_calculator.html`](260715_primer_tm_calculator.html) in any browser.
 
+
+## 🌐 Live Public Website
+https://biie-deepir.github.io/primer_designer/260715_primer_tm_calculator.html
+
 ## Features
 
 - **Oligo Tm** — single or batch sequence Tm/GC%/ΔG, an 8-point annealing gradient, and a **Dual Primer (Fwd + Rev)** mode for batch Tm/Ta on primer pairs (CSV import/export, downloadable template, pasteable/editable table with spreadsheet-style multi-cell paste).
