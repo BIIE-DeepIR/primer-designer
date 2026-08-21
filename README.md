@@ -6,7 +6,7 @@ Single self-contained HTML file, no build step, no server, no internet required 
 
 
 ## 🌐 Live Public Website
-https://biie-deepir.github.io/primer_designer/260715_primer_tm_calculator.html
+https://biie-deepir.github.io/primer-designer/260715_primer_tm_calculator.html
 
 ## Features
 
