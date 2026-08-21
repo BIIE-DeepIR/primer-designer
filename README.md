@@ -1,4 +1,4 @@
-# primer_designer
+# primer-designer
 
 Primer Tm & annealing-temperature calculator for PCR primer design — nearest-neighbor thermodynamics (SantaLucia 2004) with Owczarzy salt correction, tuned for KAPA HiFi HotStart and cross-calibrated against SnapGene/IDT.
 
